@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Accses konto.cs" />
     <Compile Include="andmed.cs" />
     <Compile Include="Luua konto.cs" />
     <Compile Include="Program.cs" />

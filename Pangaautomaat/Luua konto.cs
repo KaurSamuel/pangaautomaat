@@ -22,8 +22,7 @@ namespace Pangaautomaat
             if (!System.IO.File.Exists(uus_konto.Directorypath))
             {
                 System.IO.File.WriteAllText(uus_konto.Directorypath, pin);
-
-                Console.WriteLine("konto "+ uus_konto.Nimi+"loodi");
+                Console.WriteLine("konto "+ uus_konto.Nimi+" loodi");
             }
             else
             {

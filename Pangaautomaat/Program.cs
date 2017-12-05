@@ -14,15 +14,15 @@ namespace Pangaautomaat
             string valik = Console.ReadLine();
             if (valik == "Raha välja võta")
             {
-
+                Accses_konto.Sisene_konto();
             }
             if (valik== "Luua konto")
             {
                 Luua_konto.Konto_luua();
             }
-            if (valik== " Kontojääk")
+            if (valik== "Kontojääk")
             {
-
+                Accses_konto.Sisene_konto();
             }
 
         }
