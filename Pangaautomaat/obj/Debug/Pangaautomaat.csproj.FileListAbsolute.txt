@@ -1,0 +1,6 @@
+c:\users\opilane\documents\visual studio 2017\Projects\Pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.csprojResolveAssemblyReference.cache
+c:\users\opilane\documents\visual studio 2017\Projects\Pangaautomaat\Pangaautomaat\bin\Debug\Pangaautomaat.exe.config
+c:\users\opilane\documents\visual studio 2017\Projects\Pangaautomaat\Pangaautomaat\bin\Debug\Pangaautomaat.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Pangaautomaat\Pangaautomaat\bin\Debug\Pangaautomaat.pdb
+c:\users\opilane\documents\visual studio 2017\Projects\Pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.exe
+c:\users\opilane\documents\visual studio 2017\Projects\Pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.pdb
