@@ -10,22 +10,23 @@ namespace Pangaautomaat
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Tere! Mida te teha tahate? Luua konto/Raha välja võta/Kontojääk");
-            string valik = Console.ReadLine();
-            if (valik == "Raha välja võta")
-            {
-                Accses_konto.Sisene_konto();
-            }
-            if (valik== "Luua konto")
+            start:
+            Console.WriteLine("Tere! Mida te teha tahate? Regristeeruda/Logida sisse(r/l)");
+            string valik = Console.ReadLine();          
+            if (valik== "r")
             {
                 Luua_konto.Konto_luua();
             }
-            if (valik== "Kontojääk")
+            else if (valik== "l")
             {
                 Accses_konto.Sisene_konto();
             }
-
+            else
+            {
+                Console.WriteLine("sellist valikut pole olemas");
+                goto start;
+            }
+            goto start;
         }
-
     }
 }

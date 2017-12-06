@@ -21,14 +21,16 @@ namespace Pangaautomaat
             uus_konto.Directorypath = nimi + ".txt";
             if (!System.IO.File.Exists(uus_konto.Directorypath))
             {
-                System.IO.File.WriteAllText(uus_konto.Directorypath, pin);
-                Console.WriteLine("konto "+ uus_konto.Nimi+" loodi");
+                string raha ="0";
+                string[] lines = { uus_konto.PIN, raha };
+                System.IO.File.WriteAllLines(uus_konto.Directorypath, lines);
+                Console.WriteLine("konto "+ uus_konto.Nimi+" loodi");               
             }
             else
             {
                 Console.WriteLine("konto "+ uus_konto.Nimi+ " on juba olemas");             
             }
-            Console.ReadLine();
+            
         }
     }
 }
