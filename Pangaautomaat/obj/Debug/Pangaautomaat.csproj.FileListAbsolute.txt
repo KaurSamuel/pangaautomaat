@@ -4,3 +4,10 @@ c:\users\opilane\documents\visual studio 2017\Projects\Pangaautomaat\Pangaautoma
 c:\users\opilane\documents\visual studio 2017\Projects\Pangaautomaat\Pangaautomaat\bin\Debug\Pangaautomaat.pdb
 c:\users\opilane\documents\visual studio 2017\Projects\Pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.exe
 c:\users\opilane\documents\visual studio 2017\Projects\Pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.pdb
+C:\Users\kaurs\Documents\GitHub\pangaautomaat\Pangaautomaat\bin\Debug\Pangaautomaat.exe.config
+C:\Users\kaurs\Documents\GitHub\pangaautomaat\Pangaautomaat\bin\Debug\Pangaautomaat.exe
+C:\Users\kaurs\Documents\GitHub\pangaautomaat\Pangaautomaat\bin\Debug\Pangaautomaat.pdb
+C:\Users\kaurs\Documents\GitHub\pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.csprojResolveAssemblyReference.cache
+C:\Users\kaurs\Documents\GitHub\pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.csproj.CoreCompileInputs.cache
+C:\Users\kaurs\Documents\GitHub\pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.exe
+C:\Users\kaurs\Documents\GitHub\pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.pdb

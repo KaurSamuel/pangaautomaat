@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Accses konto.cs" />
     <Compile Include="andmed.cs" />
+    <Compile Include="kontos.cs" />
     <Compile Include="Luua konto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
