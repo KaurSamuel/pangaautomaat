@@ -11,3 +11,9 @@ C:\Users\kaurs\Documents\GitHub\pangaautomaat\Pangaautomaat\obj\Debug\Pangaautom
 C:\Users\kaurs\Documents\GitHub\pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.csproj.CoreCompileInputs.cache
 C:\Users\kaurs\Documents\GitHub\pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.exe
 C:\Users\kaurs\Documents\GitHub\pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.pdb
+C:\Users\opilane\Documents\GitHub\pangaautomaat\Pangaautomaat\bin\Debug\Pangaautomaat.exe.config
+C:\Users\opilane\Documents\GitHub\pangaautomaat\Pangaautomaat\bin\Debug\Pangaautomaat.exe
+C:\Users\opilane\Documents\GitHub\pangaautomaat\Pangaautomaat\bin\Debug\Pangaautomaat.pdb
+C:\Users\opilane\Documents\GitHub\pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Documents\GitHub\pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.exe
+C:\Users\opilane\Documents\GitHub\pangaautomaat\Pangaautomaat\obj\Debug\Pangaautomaat.pdb

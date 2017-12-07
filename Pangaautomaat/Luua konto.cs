@@ -10,11 +10,27 @@ namespace Pangaautomaat
     {
         public static void Konto_luua()
         {
-
+            start:
             Console.WriteLine("Mis kavatseb olla teie konto kasutajanimi?");
             string nimi = Console.ReadLine();
-            Console.WriteLine("Mis kavatseb olla teie konto parool?");
-            string pin = Console.ReadLine();     
+            if (nimi=="")
+            {
+                Console.WriteLine("palun kirjutage midagi");
+                goto start;
+            }
+            while (true)
+            {
+                Console.WriteLine("Mis kavatseb olla teie konto parool?");
+                string pin = Console.ReadLine();
+                if (pin=="")
+                {
+                    Console.WriteLine("palun kirjutage midagi");
+                }
+                else
+                {
+                    break;
+                }
+            }           
             var uus_konto = new andmed();
             uus_konto.Nimi = nimi;
             uus_konto.PIN = pin;
