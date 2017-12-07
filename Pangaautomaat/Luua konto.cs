@@ -18,10 +18,12 @@ namespace Pangaautomaat
                 Console.WriteLine("palun kirjutage midagi");
                 goto start;
             }
+            Console.WriteLine("Mis kavatseb olla teie konto parool?");
+            string pin = Console.ReadLine();
             while (true)
             {
                 Console.WriteLine("Mis kavatseb olla teie konto parool?");
-                string pin = Console.ReadLine();
+                pin = Console.ReadLine();
                 if (pin=="")
                 {
                     Console.WriteLine("palun kirjutage midagi");
